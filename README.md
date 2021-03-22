@@ -148,13 +148,13 @@ _NB. if port 3000 is already in use, the design system will try and find the nex
 This repository is maintained by a team at the Care Quality Commission. If you’ve got a question or need support you can:
 
 - Email design-system@cqc.org.uk.
-- [View known issues on GitHub](https://github.com/CQCDigital/design-system/issues).
+- [View known issues on GitHub](https://github.com/CQCDigital/design-system-backlog/projects/1).
 
 ## Contributing
 If you’ve got an idea or suggestion you can:
 
 - Email design-system@digital.justice.gov.uk.
-- [Create a GitHub issue](https://github.com/CQCDigital/design-system/issues).
+- [Create a GitHub issue](https://github.com/CQCDigital/design-system-backlog/issues/new).
 
 ## Licence
 
