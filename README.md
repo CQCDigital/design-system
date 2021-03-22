@@ -1,6 +1,6 @@
 # CQC Design System
 
-The CQC Design System is one place for service teams to find styles, components and patterns for designing Ministry of Justice services.
+The CQC Design System is one place for service teams to find styles, components and patterns for designing Care Quality Commission services.
 
 ## Contact the team
 
