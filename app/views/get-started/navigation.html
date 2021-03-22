@@ -1,0 +1,37 @@
+{{ appSubNavigation({
+  sections: [
+  {
+    heading: {
+      text: 'How we work'
+    },
+    items: [{
+      text: 'Our approach',
+      href: '/get-started/our-approach',
+      selected: pageId == 'our-approach'
+    },
+    {
+      text: 'Prototyping',
+      href: '/get-started/prototyping',
+      selected: pageId == 'prototyping'
+    },
+    {
+      text: 'Production',
+      href: '/get-started/production',
+      selected: pageId == 'production'
+    }]
+  },
+  {
+    heading: {
+      text: 'How to guides'
+    },
+    items: [{
+      text: 'Deploying your prototype',
+      href: '/get-started/deploying-your-prototype',
+      selected: pageId == 'deploying-your-prototype'
+    }, {
+      text: 'Setting up JavaScript',
+      href: '/get-started/setting-up-javascript',
+      selected: pageId == 'setting-up-javascript'
+    }]
+  }]
+}) }}
