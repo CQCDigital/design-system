@@ -1,4 +1,4 @@
-This guide explains how to deploy prototypes to MOJ's Heroku account.
+This guide explains how to deploy prototypes to CQC's Heroku account.
 
 After following this guide your prototype will automatically deploy any changes that you push to GitHub.
 
